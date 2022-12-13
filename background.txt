@@ -1,0 +1,24 @@
+main .section2 .section2_inner .model_list li:first-child a{
+    background: url("../img/img_yt_off.jpg")no-repeat;
+}
+main .section2 .section2_inner .model_list li:nth-child(2) a{
+    background: url("../img/img_mn_off.jpg")no-repeat;
+}
+main .section2 .section2_inner .model_list li:nth-child(3) a{
+    background: url("../img/img_ws_off.jpg")no-repeat;
+}
+main .section2 .section2_inner .model_list li:nth-child(4) a{
+    background: url("../img/img_yj_off.jpg")no-repeat;
+}
+main .section2 .section2_inner .model_list li:nth-child(5) a{
+    background: url("../img/img_cy_off.jpg")no-repeat;
+}
+main .section2 .section2_inner .model_list li:nth-child(6) a{
+    background: url("../img/img_sm_off.jpg")no-repeat;
+}
+main .section2 .section2_inner .model_list li:nth-child(7) a{
+    background: url("../img/img_sh_off.jpg")no-repeat;
+}
+main .section2 .section2_inner .model_list li:last-child a{
+    background: url("../img/img_sj_off.jpg")no-repeat;
+} 
